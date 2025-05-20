@@ -3,7 +3,7 @@ layout: post
 title: "Welcome to My Blog"
 date: 2023-01-01 12:00:00 +0000
 categories: general
-author: Your Name
+author: Andrea Telatin
 toc:
   - id: introduction
     title: Introduction
