@@ -73,4 +73,5 @@ This template is available as open source under the terms of the [MIT License](L
 
 ## Credits
 
-This template was created based on GOV.UK design patterns, simplified and adapted for Jekyll and personal blogging use.
+This template was created based on [**GOV.UK design patterns**](https://design-system.service.gov.uk/styles/page-template/),
+simplified and adapted for Jekyll and personal blogging use.
